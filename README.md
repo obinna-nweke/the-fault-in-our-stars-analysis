@@ -119,7 +119,7 @@ By following the above steps, we have successfully identified and visualized the
 
 ## Files
 - faultinourstars.txt: Contains the text of the book "The Fault in Our Stars" by John Green.
-- Movie Cover Image: Poster of the movie adaptation of the book.
+- Movie Cover Image: Poster of the movie adaptation of the book
 
 ## Author
 Obinna Nweke
